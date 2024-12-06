@@ -1,0 +1,20 @@
+.coursBloc{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.colaps{
+    display: flex;
+    gap: 2rem;
+    background-color: #fff;
+    width: auto;
+
+}
+.card{
+   display: flex;
+   flex-direction: column;
+   width: 500px;
+   height: 200px;
+   background-color: #fff;
+}
+
